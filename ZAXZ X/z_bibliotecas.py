@@ -12,7 +12,7 @@ try:
     init()
 
 except Exception as erro:
-    print("\n\nErro ao importar bibliotecas, procure como instalar aa bibliotecas 'colorama', 'pandas', 'pyautogui', 'pyfiglet' de python para prosseguir.\n")
+    print("\n\nErro ao importar bibliotecas, procure como instalar as bibliotecas 'colorama', 'pandas', 'pyautogui', 'pyfiglet' de python para prosseguir.\n")
     print(f"\nDetalhes do erro: {erro}\n\n")
     exit()
 
