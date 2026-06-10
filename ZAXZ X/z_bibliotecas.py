@@ -2,6 +2,7 @@ try:
     from colorama import Fore, Style, init
     import time
     import sys 
+    import os
     import termios
     import csv
     import subprocess
